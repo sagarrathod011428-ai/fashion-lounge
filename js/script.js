@@ -1,1 +1,1 @@
-console.log("Fashion Lounge website loaded successfully");
+console.log("Fashion Lounge luxury website loaded");
